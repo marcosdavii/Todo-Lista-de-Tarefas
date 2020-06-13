@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\contabilidade-allam\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\contabilidade-allam\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}

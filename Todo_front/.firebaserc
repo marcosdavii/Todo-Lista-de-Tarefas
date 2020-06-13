@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todos-3fff2": {
+      "hosting": {
+        "Todo": [
+          "todos-3fff2"
+        ]
+      }
+    }
+  }
+}
